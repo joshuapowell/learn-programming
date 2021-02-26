@@ -6,13 +6,16 @@ Note: Simple data, especially the treatement of numbers uncovers a myraid of pro
 
 - Expression (primitive expression) a combination of symbols (i.e., characters that are alphanumeric, special, national).
 - Operator, the left most element in a list
-- Operands, the other elements in a list that are not the operator
-- Prefix Notation, the act of putting the operator to the left of the operands (this is counter to what you may be used to in arithmetical, logical formulae and statements, which uses *infix notation*)
-- Infix Notation, the act of putting the operator(s) between operands
-- Postfix Notation, 
+- Operands, the other elements in a list that are not the operator, 
 - Nest(ing)(ed), combinations of elements are themselves combinations (@see example-1.1.1.3.scm)
 - Pretty Printing, a formatting convention that vertically aligns operands
 - Read-Eval-Print loop, The interpreter operatives in that it reads an expression, evaluates the expression, and prints the result.
+
+- Prefix Notation, the act of putting the operator to the left of the operands (this is counter to what you may be used to in arithmetical, logical formulae and statements, which uses *infix notation*)
+- Infix Notation, the act of putting the operator(s) between operands
+- Postfix Notation, the act of putting an operator after the operand(s)
+
+More information can be learned by [reading the article "Common Operator Notation" on Wikipedia](https://en.wikipedia.org/wiki/Common_operator_notation)
 
 *Note: Notice no explicit `print` command is necessary in Lisp.*
 

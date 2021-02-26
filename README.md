@@ -2,6 +2,8 @@
 
 A journey through the "Teach Yourself Computer Science" course as outline on the website https://teachyourselfcs.com/#programming.
 
+Using [Brian Harvey’s SICP lectures](https://archive.org/details/ucberkeley-webcast-PL3E89002AA9B9879E?sort=titleSorter).
+
 ## Overview
 
 ### Programming
