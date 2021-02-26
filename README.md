@@ -1,5 +1,7 @@
 # Computer Science
 
+A journey through the "Teach Yourself Computer Science" course as outline on the website https://teachyourselfcs.com/#programming.
+
 ## Overview
 
 ### Programming
